@@ -1,6 +1,9 @@
 From Leetcode:  
 https://leetcode.com/problems/merge-two-sorted-lists/description/  
 
+Note - this first version creates new nodes and a new list.  
+Submit is accepted on Leetcode  
+
 **Merge Two Sorted Lists**  
 Solved  
 Easy  
